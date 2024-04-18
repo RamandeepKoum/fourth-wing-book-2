@@ -1,5 +1,7 @@
 # fourth-wing-book-2
 
+<img src="https://github.com/RamandeepKoum/fourth-wing-book-2/blob/main/fw.png"/>
+
 *Everyone expected Violet Sorrengail to die during her first year at Basgiath War College―Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky*
 
 *Now the real training begins, and Violet’s already wondering how she’ll get through. It’s not just that it’s grueling and maliciously brutal, or even that it’s designed to stretch the riders’ capacity for pain beyond endurance. It’s the new vice commandant, who’s made it his personal mission to teach Violet exactly how powerless she is–unless she betrays the man she loves*
@@ -18,3 +20,4 @@
 
 +  First published November 7, 2023
 
+<img src="https://github.com/RamandeepKoum/fourth-wing-book-2/blob/main/d.png"/>
